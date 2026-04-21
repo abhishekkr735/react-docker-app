@@ -1,3 +1,24 @@
+# React Docker Application
+
+## Experiment 3.2.1 – Dockerization
+- Created Dockerfile with multi-stage build
+- Built optimized production image
+- Served React app using Nginx
+
+## Experiment 3.2.2 – CI/CD
+- Implemented GitHub Actions workflow
+- Automated build process
+- Docker image creation on push
+
+## Technologies Used
+- React.js
+- Docker
+- Nginx
+- GitHub Actions
+
+## Output
+- Production-ready Docker image
+- Automated CI/CD pipeline
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
